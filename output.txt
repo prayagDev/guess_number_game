@@ -1,0 +1,94 @@
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: adfdfd
+please provide yes or no
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: no
+ok bye!
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: dkfgdj
+please provide valid number
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: sfsdf
+please provide valid number
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 9
+please enter valid range
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 10
+please enter valid range
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 12
+enter guess number: 15
+enter guess number: 16
+enter guess number: 17
+enter guess number: 1
+enter guess number: 2
+Max Retries exceeded! Sorry.
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 12
+enter guess number: 10
+Congrats! You Won.
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 12
+enter guess number: 10
+enter guess number: 12
+enter guess number: 12
+enter guess number: 11
+Congrats! You Won.
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: as
+<function validate_data at 0x100afa9d0>
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: afs
+{'detail': 'please provide yes or no'}
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: no 
+{'detail': 'ok bye!'}
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 12
+enter guess number: 10
+Congrats! You Won.
+prayagsaraswat@Prayags-MacBook-Air number_guessing % python3 main.py
+Are you ready? yes/no: yes
+Okay Great!
+Now lets select the start and end range below
+Min Range: 10
+Max Range: 12
+enter guess number: 14
+enter guess number: 1
+enter guess number: 1
+enter guess number: 2
+enter guess number: 3
+Max Retries exceeded! Sorry.
+prayagsaraswat@Prayags-MacBook-Air number_guessing % 
